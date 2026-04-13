@@ -1,9 +1,19 @@
 body {
-
-    background: lightblue;
+  font-family: Arial, sans-serif;
+  background: linear-gradient(180deg, #120b04 0%, #1e1208 100%);
 
 }
 
+h2 {
+
+    color: lightgreen;
+
+}
+
+p {
+
+    color: lightcoral;
+}
 nav {
     display: flex;
     background-color: blue;
